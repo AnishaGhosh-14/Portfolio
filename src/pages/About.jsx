@@ -17,9 +17,7 @@ function About() {
       </h1>
       <div>
         <p>
-          Software Engineer Based in India, passionate about fostering technical
-          education through hands-on learning, adept at crafting engaging
-          applications, and excelling in web designing, UI, and UX
+        Software Engineer based in India, dedicated to advancing technical education through immersive, hands-on learning experiences. I bring expertise in crafting engaging applications, with a focus on web design, UI, and UX. As a freelancer, I've had the privilege of working on diverse projects, leveraging my skills to deliver innovative solutions. Passionate about staying on the cutting edge of technology, I thrive in dynamic environments where creativity and technical excellence converge. Let's collaborate and bring your digital ideas to life!
         </p>
       </div>
       <div className="py-10 flex flex-col">
