@@ -167,7 +167,7 @@ export const projects = [
         theme: 'btn-back-pink',
         name: 'Ice Cream Shop',
         description: 'Indulge in a world of sweetness and joy as you explore the IceCreamDelight website, where every click is a step into the enchanting universe of ice cream. Meticulously designed using Figma, our user interface (UI) and user experience (UX) promise a delightful and seamless journey for ice cream enthusiasts.',
-        link: 'https://github.com/adrianhajdin/social_media_app',
+        link: 'https://github.com/AnishaGhosh-14/UI-design/blob/main/IceCreamWebPageUI.png',
     },
     
 ];
