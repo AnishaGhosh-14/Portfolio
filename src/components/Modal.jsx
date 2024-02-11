@@ -19,7 +19,7 @@ function Modal({ setOpen }) {
   return ReactDOM.createPortal(
     <div className="modal-container">
       <div className="modal-header">
-        <h1 className='p-5 text-orange-500'>Connect with Us</h1>
+        <h1 className='p-5 text-orange-500'>Connect with me</h1>
         <button onClick={closeModal}>
           <CancelIcon />
         </button>
