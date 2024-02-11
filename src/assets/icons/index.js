@@ -12,8 +12,6 @@ import tailwindcss from './tailwindcss.svg'
 import linkedin from './linkedin.svg'
 import twitter from './twitter.svg'
 import contact from './contact.svg'
-import soundon from './soundon.png'
-import soundoff from './soundoff.png'
 import figma from './figma.svg'
 import adobeXD from './adobeXD.svg'
 import SQL from './SQL.svg';
@@ -37,8 +35,6 @@ export {
     linkedin,
     twitter,
     contact,
-    soundon,
-    soundoff,
     figma,
     cplusplus,
     adobeXD,
